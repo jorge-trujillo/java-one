@@ -1,4 +1,4 @@
-[[Using Docker and Kubernetes to deploy Java applications]]
+# Using Docker and Kubernetes to deploy Java applications
 
 All materials here: https://github.com/javaee-samples/docker-java
 
