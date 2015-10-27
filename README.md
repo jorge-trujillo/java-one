@@ -25,3 +25,9 @@ Day 1 was mostly about the Java Keynote, plus a few sessions.
 - **Intro to thread dumps and using Samurai**: Interesting look and debugging slowdowns and deadlocks using thread dumps, and the Samurai tool to visualize them.
 
 ## Day 3
+
+- **Deploying J2EE 7 microservices to the cloud**: Tutorial-type walk-through of building a small service using J2EE and JCache, testing it using Payora, and then deploying it to Amazon Elastic Beanstalk.
+
+- **Speech Recognition using Java**: Code examples and demo of using CMU Sphinx for speech recognition.
+
+- **Effective and Clean Java Code**: Talk about Domain Driven Design and writing clean, well encapsulated code.
