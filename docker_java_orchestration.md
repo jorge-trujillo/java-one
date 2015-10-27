@@ -2,6 +2,13 @@
 
 Talk by Patrick Chanezon on different available orchestration systems out there for Docker containers.
 
+## Links
+
+* http://docs.docker.com
+* http://training.docker.com
+* http://slideshare.net/chanezon
+* https://github.com/dave-tucker/docker-network-demos
+
 ## Cloud Market
 
 * Google, Amazon and Microsoft are giants in public Cloud

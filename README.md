@@ -18,4 +18,10 @@ Day 1 was mostly about the Java Keynote, plus a few sessions.
 
 - **Docker Orchestration for Java**: Talk by Patrick Chanezon from Docker on different available orchestration systems out there for Docker containers.
 
+- **Programming with Lambdas**: Good talk about using Lambdas to simplify code, make it more readable, and improve performance.
+
+- **Tips and Tricks with IntelliJ**: A look at some of the new features in IntelliJ 15, and interesting short-cuts
+
+- **Intro to thread dumps and using Samurai**: Interesting look and debugging slowdowns and deadlocks using thread dumps, and the Samurai tool to visualize them.
+
 ## Day 3
