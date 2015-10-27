@@ -31,3 +31,7 @@ Day 1 was mostly about the Java Keynote, plus a few sessions.
 - **Speech Recognition using Java**: Code examples and demo of using CMU Sphinx for speech recognition.
 
 - **Effective and Clean Java Code**: Talk about Domain Driven Design and writing clean, well encapsulated code.
+
+- **Logging and Metrics for Microservices Architectures**: Good discussion about capturing both logs and metrics, and how to store them and make them searchable for debugging and reporting on business and application health.
+
+- **12-Factor App and Modern Java App Deployment**: Solidly good talk on what you should be shooting for when deploying modern applications. Most interesting is that he recommends completely moving away from app servers.
