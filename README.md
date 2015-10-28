@@ -35,3 +35,15 @@ Day 1 was mostly about the Java Keynote, plus a few sessions.
 - **Logging and Metrics for Microservices Architectures**: Good discussion about capturing both logs and metrics, and how to store them and make them searchable for debugging and reporting on business and application health.
 
 - **12-Factor App and Modern Java App Deployment**: Solidly good talk on what you should be shooting for when deploying modern applications. Most interesting is that he recommends completely moving away from app servers.
+
+## Day 4
+
+- **API Design with Java 8 Lambdas and Streams**: Focus on lessons learned when building the Java 8 APIs by Brian  Goetz and Stuart Marks, who work on the Java Platform.
+
+- **Debugging Java Apps in Containers**: Highl-level talk and case studies about debugging issues in highly-distributed environments.
+
+- **CI/CD Antipatterns**: Basic session on how to manage stability and continuous delivery.
+
+- **Low Latency Apps with the JVM**: Crazy look at the world of low latency and high frequency trading. Interesting but not very applicable.
+
+- **Shooting the Rapids: Getting the Best from Java 8 Streams**: Explanation of performance considerations for parallel streams, and when to use them or avoid them.
