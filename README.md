@@ -23,15 +23,15 @@ Day 1 was mostly about the Java Keynote, plus a few sessions.
 
 > - [**JAVA - Programming with Lambdas**](programming_with_lambdas.md): Good talk about using Lambdas to simplify code, make it more readable, and improve performance.
 
-- **JAVA - Tips and Tricks with IntelliJ**](intellij_tips_tricks.md): A look at some of the new features in IntelliJ 15, and interesting short-cuts
+- [**JAVA - Tips and Tricks with IntelliJ**](intellij_tips_tricks.md): A look at some of the new features in IntelliJ 15, and interesting short-cuts
 
-> - [**JAVA - Intro to thread dumps and using Samurai**](intro_to_threadumps.md): Interesting look and debugging slowdowns and deadlocks using thread dumps, and the Samurai tool to visualize them.
+> - [**JAVA - Intro to Thread Dumps and Using Samurai**](intro_to_threadumps.md): Interesting look and debugging slowdowns and deadlocks using thread dumps, and the Samurai tool to visualize them.
 
 ## Day 3
 
-- [**DEVOPS - Deploying J2EE 7 microservices to the cloud**](eploying_microservice_cloud.md): Tutorial-type walk-through of building a small service using J2EE and JCache, testing it using Payora, and then deploying it to Amazon Elastic Beanstalk.
+- [**DEVOPS - Deploying J2EE 7 Microservices to the Cloud**](deploying_microservice_cloud.md): Tutorial-type walk-through of building a small service using J2EE and JCache, testing it using Payora, and then deploying it to Amazon Elastic Beanstalk.
 
-- [**JAVA - Speech Recognition using Java**](speech_recognition_java.md): Code examples and demo of using CMU Sphinx for speech recognition.
+- [**JAVA - Speech Recognition Using Java**](speech_recognition_java.md): Code examples and demo of using CMU Sphinx for speech recognition.
 
 - [**JAVA - Effective and Clean Java Code**](effective_clean_java.md): Talk about Domain Driven Design and writing clean, well encapsulated code. Some interesting tidbits but very JPA/relational focused.
 
