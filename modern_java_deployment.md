@@ -10,7 +10,7 @@ Links:
 * http://jkutner.github.io
 Slides:
 * http://bit.ly/1PSRxcm
-* http://www.slideshare.net/jkutner/javaone-2105-12-factor-app
+* http://www.slideshare.net/jkutner/javaone-2015-12-factor-app
 
 ## High-level goals
 
